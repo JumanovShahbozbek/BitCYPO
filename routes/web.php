@@ -20,3 +20,4 @@ Route::get('/services', [SiteController::class, 'services']);
 Route::get('/testimonial', [SiteController::class, 'testimonial']);
 Route::get('/works', [SiteController::class, 'works']);
 Route::get('/contact', [SiteController::class, 'contact']);
+
